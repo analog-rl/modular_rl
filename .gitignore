@@ -22,3 +22,6 @@ logs/
 ghostdriver.log
 
 htmlcov
+
+.idea/
+open_ai_key.txt
